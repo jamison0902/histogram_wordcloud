@@ -1,2 +1,2 @@
 # histogram_wordcloud
-Código em python para exibição de um histograma e nuvem de palavra
+Python code to display a histogram and word cloud
